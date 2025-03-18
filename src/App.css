@@ -3,8 +3,9 @@
 #root {
   width: 100%;
   max-width: 1440px;
-  margin: 0 auto;
   text-align: center;
+  display: flex;
+  flex-direction: column;
   font-family: "Playfair Display", serif;
 }
 
@@ -26,4 +27,7 @@ body {
   border-radius: 10px;
   border: 2px solid #f2f2f2;
 }
+
+
+
 

@@ -11,6 +11,7 @@ header {
   color: #E65463;
   position: relative;
   font-size: 1.2rem;
+  padding: 0 30px;
 }
 
 header .left,

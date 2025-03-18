@@ -4,6 +4,7 @@ import Main from './components/main/Main';
 import Infancia from './components/infancia/Infancia';
 import Teatro from './components/teatro/Teatro';
 import Amigos from './components/amigos/Amigos';
+import Carroussel from './components/carroussel/Carroussel';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Infancia />
       <Teatro />
       <Amigos />
+      <Carroussel />
     </>
   );
 };

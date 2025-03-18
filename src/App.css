@@ -10,6 +10,9 @@
 }
 
 body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   background: linear-gradient(#FFFFFF, #FFFFFF, #FFFFFF, #FFFFFF, #FFFFFF, #F6B2B9);
 }
 

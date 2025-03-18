@@ -5,7 +5,8 @@
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
-  height: 1450px;
+  height: 1600px;
+  margin-bottom: 100px;
 }
 
 .conteudo {

@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+.align-texts {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  height: 850px;
+  margin-top: 50px;
+}
+
+.text1,
+.text2,
+.text3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.text1 h1,
+.text2 h1,
+.text3 h1  {
+  max-width: 300px;
+}
+
+.text1 img,
+.text2 img,
+.text3 img {
+  width: 300px;
+  height: 210px;
+}
+
+.text2 img {
+  margin-top: -160px;
+}
+
+.text3 img {
+  margin-top: -95px;
+}
+
+.text1 h1,
+.text2 h1,
+.text3 h1 {
+  margin-top: 45px;
+  color: #E65463;
+  font-size: 26px;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  text-align: justify;
+}
+
+.text1 p,
+.text2 p,
+.text3 p {
+  margin-top: 15px;
+  max-width: 330px;
+  text-align: justify;
+  color: #E65463;
+  line-height: 30px;
+  font-size: 20px;
+  font-family: "Inter", serif;
+  margin-bottom: 50px;
+}
+

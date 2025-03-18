@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.align-inf {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-inf {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-inf h2 {
+  color: #E65463;
+  font-size: 110px;
+  line-height: 100px;
+  margin-top: -5px;
+}
+
+.text-inf h1 {
+  max-width: 600px;
+  margin-top: -50px;
+  color: #F47B87;
+  font-size: 3.1rem;
+  font-style: italic;
+  font-weight: bold;
+  text-align: left; 
+}
+
+.align-jov {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.juventude {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.juventude h1 {
+  margin-top: 15px;
+  color: #E65463;
+  font-size: 35px;
+}
+
+.juventude p {
+  margin-top: 15px;
+  max-width: 240px;
+  text-align: justify;
+  color: #E65463;
+  font-size: 20px;
+  line-height: 30px;
+  font-family: "Inter", serif;
+}
+
+.comp {
+  margin-left: 30px;
+}
+
+.text-cria {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 90px;
+}
+
+.text-cria h1 {
+  margin-top: 25px;
+  color: #E65463;
+  font-size: 26px;
+  font-style: italic;
+  font-weight: bold;
+  text-align: left;
+}
+
+.text-cria p {
+  max-width: 400px;
+  text-align: justify;
+  color: #E65463;
+  line-height: 30px;
+  font-size: 20px;
+  font-family: "Inter", serif;
+  margin-bottom: 50px;
+}
